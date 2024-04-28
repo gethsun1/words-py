@@ -22,11 +22,11 @@ This project is a simple web application built with Flask, a Python web framewor
 ## Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/random-words-generator.git
+   git clone https://github.com/username/words-py.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd random-words-generator
+   cd words-py
    ```
 3. Install the required Python packages using pip:
    ```bash
