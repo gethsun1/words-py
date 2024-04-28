@@ -22,7 +22,7 @@ This project is a simple web application built with Flask, a Python web framewor
 ## Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/words-py.git
+   git clone https://github.com/gethsun1/words-py.git
    ```
 2. Navigate to the project directory:
    ```bash
