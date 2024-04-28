@@ -4,6 +4,10 @@ from words import app  # Import the Flask app instance from the package
 
 rw = RandomWord()
 
+header = {
+    'Authorization': "kiwel11dvz8vz90zygypvmxpnbdhjykzvsevxunx4wa45cliletrjt6mlyfx3xf8"
+}
+
 @app.route('/')
 def index():
     return render_template('index.html')
