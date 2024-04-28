@@ -2,6 +2,7 @@
 
 # Random Words Generator
 ----
+[![pi.png](https://i.postimg.cc/9XKZmFWW/pi.png)](https://postimg.cc/jC6LvTw9)
 
 This project is a simple web application built with Flask, a Python web framework, that generates a pair of intriguing random words and displays them dynamically using AJAX.
 
