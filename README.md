@@ -3,7 +3,7 @@
 # Random Words Generator
 ----
 
-This project is a simple web application built with Flask, a Python web framework, that generates random words and displays them dynamically using AJAX.
+This project is a simple web application built with Flask, a Python web framework, that generates a pair of intriguing random words and displays them dynamically using AJAX.
 
 ## Features
 - Generates random words using the WonderWords library in Python.
